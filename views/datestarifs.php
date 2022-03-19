@@ -122,7 +122,7 @@ avec un Guide-Animateur en Costume</p>
       <div class="col-lg-4">
         <div class="card mb-5 mb-lg-0">
           <div class="card-body">
-            <h6 class="card-title text-muted text-uppercase text-center">Enfant de 12 à 17 ans</h6>
+            <h6 class="card-title text-muted text-uppercase text-center">Ado de 12 à 17 ans</h6>
             <hr>
             <h6 class="card-price text-center">9€</h6>
             <hr>
@@ -154,6 +154,68 @@ avec un Guide-Animateur en Costume</p>
 
 
 
+
+
+
+
+
+<hr>
+<p class="lead"><strong>Tarif réduit 4 personnes et plus :</strong></p>
+
+
+
+
+
+
+
+
+
+
+
+<section class="pricing py-6">
+  <div class="container">
+    <div class="row">
+      <!-- Free Tier -->
+      <div class="col-lg-6">
+        <div class="card mb-5 mb-lg-0">
+          <div class="card-body">
+            <h6 class="card-title text-muted text-uppercase text-center">Enfant de 3 à 12 ans</h6>
+            <hr>
+            <h6 class="card-price text-center">5.60€</h6>
+            <hr>
+            <ul class="fa-ul">
+              
+            </ul>
+            
+          </div>
+        </div>
+      </div>
+      <!-- Plus Tier -->
+      <div class="col-lg-6">
+        <div class="card mb-5 mb-lg-0">
+          <div class="card-body">
+            <h6 class="card-title text-muted text-uppercase text-center">Adulte et ado</h6>
+            <hr>
+            <h6 class="card-price text-center">9€</h6>
+            <hr>
+            <ul class="fa-ul">
+              
+            </ul>
+            
+          </div>
+        </div>
+      </div>
+    
+    </div>
+  </div>
+</section>
+
+<br>
+<hr>
+<br>
+<p class="lead">Paiement : Espèces, CB, Chèque, Chèque Vacances</p>
+<hr>
+<p class="lead">Groupe de 20 personnes et plus, ouvert toute l'année sur rendez-vous : nous consulter par email : <br><a href="mailto:campsiege@gmail.com">campsiege@gmail.com</a></p>
 
 </div> <!-- container -->
 </body>
