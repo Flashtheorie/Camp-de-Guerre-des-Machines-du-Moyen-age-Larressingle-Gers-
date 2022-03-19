@@ -11,7 +11,7 @@ switch ($request) {
     case '/medieval/' :
         require __DIR__.'/views/home.php';
         break;
-     case '/animations/' :
+     case '/medieval/animations' :
         require __DIR__.'/views/animations.php';
         break;
 

@@ -26,7 +26,7 @@
   <div class="collapse navbar-collapse" id="navbar-collapse-01">
     <ul class="nav navbar-nav mr-auto">
 
-      <li><a href="login">Les animations</a></li>
+      <li><a href="animations">Les animations</a></li>
       <li><a href="login">Date et tarifs</a></li>
       <li><a href="login">Scolaire</a></li>
       <li><a href="login">Accès</a></li>
