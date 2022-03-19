@@ -2,28 +2,28 @@
 
 $request = $_SERVER['REQUEST_URI'];
 
-
+;
 
 switch ($request) {
-    case '/Projetsactuels/router/home' :
-        require 'views/home.php';
+    case '/medieval/home' :
+        require __DIR__.'/views/home.php';
         break;
-    case '/Projetsactuels/router/' :
-        require 'views/home.php';
+    case '/medieval/' :
+        require __DIR__.'/views/home.php';
         break;
-    case '/Projetsactuels/router/about' :
-        require 'views/about.php';
+    case '/medieval/about' :
+        require __DIR__.'/views/about.php';
         break;
-    case '/Projetsactuels/router/login' :
-        require 'views/login.php';
-        break;
-
-    case '/Projetsactuels/router/createSession' :
-        require 'action/createSession.php';
+    case '/medieval/login' :
+        require __DIR__.'/views/login.php';
         break;
 
-    case '/Projetsactuels/router/logout' :
-        require 'action/logout.php';
+    case '/medieval/createSession' :
+        require __DIR__.'/action/createSession.php';
+        break;
+
+    case '/medieval/logout' :
+        require __DIR__.'/action/logout.php';
         break;
 
 
