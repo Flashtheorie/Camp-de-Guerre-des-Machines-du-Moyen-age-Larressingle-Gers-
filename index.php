@@ -11,20 +11,7 @@ switch ($request) {
     case '/medieval/' :
         require __DIR__.'/views/home.php';
         break;
-    case '/medieval/about' :
-        require __DIR__.'/views/about.php';
-        break;
-    case '/medieval/login' :
-        require __DIR__.'/views/login.php';
-        break;
-
-    case '/medieval/createSession' :
-        require __DIR__.'/action/createSession.php';
-        break;
-
-    case '/medieval/logout' :
-        require __DIR__.'/action/logout.php';
-        break;
+ 
 
 
     default:
