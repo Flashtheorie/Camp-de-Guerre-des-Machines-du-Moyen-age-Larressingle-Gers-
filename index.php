@@ -14,7 +14,9 @@ switch ($request) {
      case '/medieval/animations' :
         require __DIR__.'/views/animations.php';
         break;
-
+     case '/medieval/datestarifs' :
+        require __DIR__.'/views/datestarifs.php';
+        break;
 
     default:
         http_response_code(404);
