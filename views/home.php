@@ -15,45 +15,72 @@
 <body>
 
 <?php include 'navbar.php'; ?>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 
 <div class="container" align="center">
 
-
-
-	<span> <h1><small>Vous êtes sur la page </small><?php echo $request; ?> </h1></span>
-
-<code>
-Le fait d'aller sur <strong>/home</strong> affiche la page <strong>/views/home.php</strong>
+<code >
+	<h4>
+Site Réouvert tous les jours du 21 Mars au 11 Novembre 2022
+Pour votre sécurité, nous affichons les mesures COVID 19 - nous distribuons une solution hydro-alcoolique
+port du masque et distanciation sociale - le lavage des mains avec du savon est possible		
+	</h4>
 </code>
+
 <hr>
-<code>
-	    case '/Projetsactuels/router/home' : <br>
-        require 'views/home.php'; <br>
-        break;
-</code>
 
-<br> <hr>
-<?php if (isset($_SESSION['id'])): ?>
-	Connecté en tant que <?php echo $_SESSION['id']; ?>
-<?php endif ?>
+	<h4>
+<i>Découvrez un camp médiéval avec des animations pour les enfants  et les grands <br> 
+qui vous initient aux techniques de l’Art de la guerre de siège.</i>
+</h4>
+<br>
 
-<?php if (!isset($_SESSION['id'])): ?>
-<a href="createSession" class="btn btn-hg btn-info">Tester avec la session</a>
-<?php endif ?>
 
+<div class="row">
+	<div class="col-sm"><img src="./img/home1.jpg" alt="" class="img-thumbnail"></div>
+	<div class="col-sm"><img src="./img/home2.jpg" alt="" class="img-thumbnail"></div>
+	<div class="col-sm"><img src="./img/home3.jpg" alt="" class="img-thumbnail"></div>
+	<div class="col-sm"><img src="./img/home4.jpg" alt="" class="img-thumbnail"></div>
+</div>
+<br>
+<i>
+Reconstitution et démonstration de tir des engins de siège.
+Sont présentés au public les machines de jet et l'artillerie à poudre.
+</i>
+
+
+<hr><br>
+
+
+
+<div class="row">
+	<div class="col-sm"><img src="./img/home5.jpeg" alt="" class="img-thumbnail"></div>
+	<div class="col-sm"><img src="./img/home6.jpeg" alt="" class="img-thumbnail"></div>
+	<div class="col-sm"><img src="./img/home7.jpeg" alt="" class="img-thumbnail"></div>
+	<div class="col-sm"><img src="./img/home8.jpeg" alt="" class="img-thumbnail"></div>
+</div>
+<br>
+<i>
+Visite animée ouvert au public avec un guide-animateur.
+</i>
 </div>
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+</div> <!-- container -->
 </body>
 </html>
