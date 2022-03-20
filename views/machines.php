@@ -22,6 +22,7 @@
 <div class="container" align="center">
   
       <h3>Les machines</h3>
+      <hr>
         <!-- tabs -->
         <div class="tabbable">
           <ul class="nav nav-tabs">
