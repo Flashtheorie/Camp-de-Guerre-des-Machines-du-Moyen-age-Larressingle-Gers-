@@ -17,7 +17,9 @@ switch ($request) {
      case '/medieval/datestarifs' :
         require __DIR__.'/views/datestarifs.php';
         break;
-
+     case '/medieval/scolaire' :
+        require __DIR__.'/views/scolaire.php';
+        break;
     default:
         http_response_code(404);
         require 'views/404.php';
