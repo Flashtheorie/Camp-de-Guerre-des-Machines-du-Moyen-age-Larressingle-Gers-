@@ -30,7 +30,9 @@ switch ($request) {
      case '/medieval/anniversaire' :
         require __DIR__.'/views/anniversaire.php';
         break;
-
+     case '/medieval/lacite' :
+        require __DIR__.'/views/lacite.php';
+        break;
     default:
         http_response_code(404);
         require 'views/404.php';
