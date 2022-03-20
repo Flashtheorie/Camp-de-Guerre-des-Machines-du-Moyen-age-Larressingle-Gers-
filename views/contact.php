@@ -39,9 +39,39 @@ La Cité des Machines <br>
 <p class="lead">
 <a href="mailto:campsiege@gmail.com ">campsiege@gmail.com </a>
 </p>
+<hr>
+<h1>Coordonnés GPS :</h1>
+
+<p class="lead">
+	
 
 
 
+<u><strong>Décimales :</strong></u>
+<br>
+
+Latitude 43.94497 <br>
+Longitude : 0.312426 <br><br>
+
+<u><strong>Sexagésimales :</strong></u>
+<br>
+
+Latitude 43°56.698'N <br>
+Longitude : 0°18.742'E <br><br>
+
+
+<u><strong>Altitude :</strong></u>
+<br> 140m / 460ft
+
+
+
+
+
+
+
+
+
+</p>
 </div>
 
 
