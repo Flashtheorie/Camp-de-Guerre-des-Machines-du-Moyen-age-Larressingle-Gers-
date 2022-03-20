@@ -24,7 +24,7 @@
 <h1>Dates d'ouvertures :</h1>
 <p class="lead">Ouvert tous les jours, semaine, week-end et jours fériés ( du 21 mars au 11 novembre 2022 )</p>
 
-<table class="table table-striped">
+<table class="table table-striped table-bordered">
 <tr>
 	<th>Du 21 Mars au 30 Juin</th>
 	<th>14h à 18h</th>
@@ -45,7 +45,7 @@
 <hr>
 <p class="lead">Ouvert tous les jours fériés</p>
 
-<table class="table table-striped">
+<table class="table table-striped table-bordered">
 <tr>
 	<th>18 Avril</th>
 	<th>Ouvert 14h à 18h</th>
