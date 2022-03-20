@@ -24,7 +24,9 @@ switch ($request) {
      case '/medieval/acces' :
         require __DIR__.'/views/acces.php';
         break;
-
+     case '/medieval/machines' :
+        require __DIR__.'/views/machines.php';
+        break;
 
 
     default:
