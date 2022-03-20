@@ -27,7 +27,9 @@ switch ($request) {
      case '/medieval/machines' :
         require __DIR__.'/views/machines.php';
         break;
-
+     case '/medieval/anniversaire' :
+        require __DIR__.'/views/anniversaire.php';
+        break;
 
     default:
         http_response_code(404);
