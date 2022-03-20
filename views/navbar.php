@@ -28,8 +28,8 @@
 
       <li><a href="animations">Les animations</a></li>
       <li><a href="datestarifs">Date et tarifs</a></li>
-      <li><a href="login">Scolaire</a></li>
-      <li><a href="login">Accès</a></li>
+      <li><a href="scolaire">Scolaire</a></li>
+      <li><a href="acces">Accès</a></li>
       <li><a href="login">Les machines</a></li>
       <li><a href="login">Anniversaire</a></li>
       <li><a href="login">La cité</a></li>
