@@ -30,27 +30,27 @@ Explication de l'art d'assiéger le château et l'enceinte fortifié :
 </p>
 <hr>
 <div class="row">
-	<div class="col-sm"><img src="./img/animations1.gif" alt=""><br>l'attaque du château au signal de l'olifant.
+	<div class="col-sm"><a href="machines"><img src="./img/animations1.gif" alt=""></a><br>l'attaque du château au signal de l'olifant.
 		</div>
-	<div class="col-sm"><img src="./img/animations2.gif" alt=""><br> le mantelet pour protéger l'assaillant des projectiles.
+	<div class="col-sm"><a href="machines"><img src="./img/animations2.gif" alt=""></a><br> le mantelet pour protéger l'assaillant des projectiles.
 </div>
-	<div class="col-sm"><img src="./img/animations3.gif" alt="">
+	<div class="col-sm"><a href="machines"><img src="./img/animations3.gif" alt=""></a>
 	<br>Le beffroi et les échelles pour franchir la muraille.
 </div>
-	<div class="col-sm"><img src="./img/animations4.gif" alt=""><br>- le bélier pour casser la porte.
+	<div class="col-sm"><a href="machines"><img src="./img/animations4.gif" alt=""></a><br>- le bélier pour casser la porte.
 </div>
-	<div class="col-sm"><img src="./img/animations5.gif" alt=""><br>- la grue ou cage à écureuil pour soulever les pierres.
+	<div class="col-sm"><a href="machines"><img src="./img/animations5.gif" alt=""></a><br>- la grue ou cage à écureuil pour soulever les pierres.
 </div>
 </div>	
 <div class="row">
-	<div class="col-sm"><img src="./img/animations6.gif" alt=""><br>- la pierrière pour la défense depuis le chemin de ronde.
+	<div class="col-sm"><a href="machines"><img src="./img/animations6.gif" alt=""></a><br>- la pierrière pour la défense depuis le chemin de ronde.
 </div>
-	<div class="col-sm"><img src="./img/animations7.gif" alt=""><br>- le trébuchet pour faire la brèche dans le rempart.
+	<div class="col-sm"><a href="machines"><img src="./img/animations7.gif" alt=""></a><br>- le trébuchet pour faire la brèche dans le rempart.
 <br>
 - les armes, épées et hallebardes.</div>
-	<div class="col-sm"><img src="./img/animations8.gif" alt=""><br>- la catapulte romaine pour le côté historique.</div>
-	<div class="col-sm"><img src="./img/animations9.jpeg" alt=""><br>- la petite bricole pour la défense depuis le chemin de ronde</div>
-	<div class="col-sm"><img src="./img/animations10.jpeg" alt=""><br>- la grande bricole en fonctionnement.</div>
+	<div class="col-sm"><a href="machines"><img src="./img/animations8.gif" alt=""></a><br>- la catapulte romaine pour le côté historique.</div>
+	<div class="col-sm"><a href="machines"><img src="./img/animations9.jpeg" alt=""></a><br>- la petite bricole pour la défense depuis le chemin de ronde</div>
+	<div class="col-sm"><a href="machines"><img src="./img/animations10.jpeg" alt=""></a><br>- la grande bricole en fonctionnement.</div>
 </div>
 
 

@@ -65,16 +65,26 @@ Sont présentés au public les machines de jet et l'artillerie à poudre.
 <i>
 Visite animée ouvert au public avec un guide-animateur.
 </i>
-</div>
 
 
 
+<hr>
+<p class="lead">Nous avons ouvert une boutique à l'intérieur de l'enceinte fortifiée</p>
+
+<img src="./img/boutique1.jpeg" alt="" class="img-thumbnail">
+<img src="./img/boutique2.jpeg" alt="" class="img-thumbnail">
 
 
-
-
-
-
+<hr><br>
+<blockquote>
+	En vacances dans le gers-gascogne, pour vos loisirs en midi-pyrénées, 
+visitez la cité des machines du moyen-age, site médiéval touristique face au village et chateau de larressingle, 
+le camp de siège médiéval et ses machines de guerre, près de condom. 
+<br>Site de tourisme culturel éducatif et pédagogique pour les enfants et les grands. 
+<br>
+<footer class="blockquote-footer">
+<a href="http://larressingle.free.fr ">http://larressingle.free.fr </a></footer>
+</blockquote>
 
 
 
