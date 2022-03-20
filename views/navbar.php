@@ -30,11 +30,11 @@
       <li><a href="datestarifs">Date et tarifs</a></li>
       <li><a href="scolaire">Scolaire</a></li>
       <li><a href="acces">Accès</a></li>
-      <li><a href="login">Les machines</a></li>
-      <li><a href="login">Anniversaire</a></li>
-      <li><a href="login">La cité</a></li>
-      <li><a href="login">Nous contacter</a></li>
-      <li><a href="login">Liens externes</a></li>
+      <li><a href="machines">Les machines</a></li>
+      <li><a href="anniversaire">Anniversaire</a></li>
+      <li><a href="lacite">La cité</a></li>
+      <li><a href="contact">Nous contacter</a></li>
+      <li><a href="links">Liens externes</a></li>
       
     </ul>
     

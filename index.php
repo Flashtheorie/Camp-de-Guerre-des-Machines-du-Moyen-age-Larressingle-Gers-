@@ -24,9 +24,19 @@ switch ($request) {
      case '/medieval/acces' :
         require __DIR__.'/views/acces.php';
         break;
+     case '/medieval/machines' :
+        require __DIR__.'/views/machines.php';
+        break;
+     case '/medieval/anniversaire' :
+        require __DIR__.'/views/anniversaire.php';
+        break;
+     case '/medieval/lacite' :
+        require __DIR__.'/views/lacite.php';
+        break;
 
-
-
+     case '/medieval/contact' :
+        require __DIR__.'/views/contact.php';
+        break;
     default:
         http_response_code(404);
         require 'views/404.php';
