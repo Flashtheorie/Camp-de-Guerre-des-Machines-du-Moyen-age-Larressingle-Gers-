@@ -24,7 +24,7 @@
 <h1>Dates d'ouvertures :</h1>
 <p class="lead">Ouvert tous les jours, semaine, week-end et jours fériés ( du 21 mars au 11 novembre 2022 )</p>
 
-<table class="table table-striped">
+<table class="table table-striped table-bordered">
 <tr>
 	<th>Du 21 Mars au 30 Juin</th>
 	<th>14h à 18h</th>
@@ -45,7 +45,7 @@
 <hr>
 <p class="lead">Ouvert tous les jours fériés</p>
 
-<table class="table table-striped">
+<table class="table table-striped table-bordered">
 <tr>
 	<th>18 Avril</th>
 	<th>Ouvert 14h à 18h</th>
@@ -160,7 +160,7 @@ avec un Guide-Animateur en Costume</p>
 
 
 <hr>
-<p class="lead"><strong>Tarif réduit 4 personnes et plus :</strong></p>
+<p class="lead"><strong>Tarif réduit pour 4 personnes et plus :</strong></p>
 
 
 
@@ -213,7 +213,7 @@ avec un Guide-Animateur en Costume</p>
 <br>
 <hr>
 <br>
-<p class="lead">Paiement : Espèces, CB, Chèque, Chèque Vacances</p>
+<p class="lead">Paiement : Espèces, CB, Chèques, Chèques Vacances</p>
 <hr>
 <p class="lead">Groupe de 20 personnes et plus, ouvert toute l'année sur rendez-vous : nous consulter par email : <br><a href="mailto:campsiege@gmail.com">campsiege@gmail.com</a></p>
 

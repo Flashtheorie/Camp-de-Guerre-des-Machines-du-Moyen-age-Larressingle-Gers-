@@ -49,8 +49,8 @@ Explication de l'art d'assiéger le château et l'enceinte fortifié :
 <br>
 - les armes, épées et hallebardes.</div>
 	<div class="col-sm"><img src="./img/animations8.gif" alt=""><br>- la catapulte romaine pour le côté historique.</div>
-	<div class="col-sm"><img src="./img/animations9.gif" alt=""><br>- la petite bricole pour la défense depuis le chemin de ronde</div>
-	<div class="col-sm"><img src="./img/animations10.gif" alt=""><br>- la grande bricole en fonctionnement.</div>
+	<div class="col-sm"><img src="./img/animations9.jpeg" alt=""><br>- la petite bricole pour la défense depuis le chemin de ronde</div>
+	<div class="col-sm"><img src="./img/animations10.jpeg" alt=""><br>- la grande bricole en fonctionnement.</div>
 </div>
 
 
