@@ -63,12 +63,12 @@
 </tr>
 <tr>
 	<th>26 Mai</th>
-	<th>Ouvert de 14h à 18h<</th>
+	<th>Ouvert de 14h à 18h</th>
 	
 </tr>
 <tr>
 	<th>06 Juin</th>
-	<th>Ouvert de 14h à 18h<</th>
+	<th>Ouvert de 14h à 18h</th>
 	
 </tr>
 <tr>
