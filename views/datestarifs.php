@@ -160,7 +160,7 @@ avec un Guide-Animateur en Costume</p>
 
 
 <hr>
-<p class="lead"><strong>Tarif réduit 4 personnes et plus :</strong></p>
+<p class="lead"><strong>Tarif réduit pour 4 personnes et plus :</strong></p>
 
 
 
@@ -213,7 +213,7 @@ avec un Guide-Animateur en Costume</p>
 <br>
 <hr>
 <br>
-<p class="lead">Paiement : Espèces, CB, Chèque, Chèque Vacances</p>
+<p class="lead">Paiement : Espèces, CB, Chèques, Chèques Vacances</p>
 <hr>
 <p class="lead">Groupe de 20 personnes et plus, ouvert toute l'année sur rendez-vous : nous consulter par email : <br><a href="mailto:campsiege@gmail.com">campsiege@gmail.com</a></p>
 
