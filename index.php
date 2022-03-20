@@ -33,6 +33,10 @@ switch ($request) {
      case '/medieval/lacite' :
         require __DIR__.'/views/lacite.php';
         break;
+
+     case '/medieval/contact' :
+        require __DIR__.'/views/contact.php';
+        break;
     default:
         http_response_code(404);
         require 'views/404.php';
