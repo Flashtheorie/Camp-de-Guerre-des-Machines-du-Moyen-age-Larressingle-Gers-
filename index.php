@@ -37,6 +37,32 @@ switch ($request) {
      case '/medieval/contact' :
         require __DIR__.'/views/contact.php';
         break;
+
+     case '/medieval/links' :
+        require __DIR__.'/views/links.php';
+        break;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     default:
         http_response_code(404);
         require 'views/404.php';
